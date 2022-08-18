@@ -2640,11 +2640,11 @@ input, select, textarea {
 	}
 
 	header.major {
-		margin-bottom: 3em;
+		margin-bottom: 1em;
 	}
 
 		header.major h2 {
-			font-size: 2em;
+			font-size: 1.6em;
 		}
 
 			header.major h2:after {
@@ -2676,7 +2676,7 @@ input, select, textarea {
 			}
 
 	footer.major {
-		margin-top: 3em;
+		margin-top: 0em;
 	}
 
 	@media screen and (max-width: 736px) {
